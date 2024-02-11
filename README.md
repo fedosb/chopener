@@ -12,5 +12,11 @@ Chopener is not just a library. It's a tool that liberates you from the confines
 2. Ease of Use: Fear complex setups? Forget about it! With Chopener, you get a simple yet powerful tool that requires no complicated configurations. Just import and use!
 3. Trust and Stability: Supported by a community of skilled developers, Chopener ensures reliability and stability in your code. Trust in Chopener and empower your code with new possibilities!
 
-### Where to Begin?
-What are you waiting for? Join the developers who have already discovered the power of Chopener! Learn how to reshape the world of your Go programs by effortlessly opening closed channels. Start your journey with Chopener today and become a true coding hero!
+### How to Install?
+Installing Chopener is as easy as pie! Just run the following command in your terminal:
+```bash
+go get -u github.com/fedosb/chopener
+```
+
+### What are you waiting for? 
+Join the developers who have already discovered the power of Chopener! Learn how to reshape the world of your Go programs by effortlessly opening closed channels. Start your journey with Chopener today and become a true coding hero!
